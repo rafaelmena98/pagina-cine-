@@ -1,0 +1,20 @@
+// CSS Y ESTILO 
+
+:root{
+  --bg:#212E5C;
+}
+
+
+/* Overlay badge on trailer */
+.banner-trailer{ pointer-events:none; }
+
+/* Banner box alongside trailer */
+.banner-box{ background: rgba(255,255,255,0.06); }
+
+
+.navbar .nav-link.active{ border-bottom:2px solid var(--bs-warning); }
+.card:hover{ transform: translateY(-2px); transition:.15s; }
+
+.bg-dark-subtle{background:rgba(255,255,255,.06);}
+.promo-card{background:#17191c;border:1px solid rgba(255,255,255,.08);transition:transform .15s ease,box-shadow .15s ease;}
+.promo-card:hover{transform:translateY(-2px);box-shadow:0 .5rem 1rem rgba(0,0,0,.35);}

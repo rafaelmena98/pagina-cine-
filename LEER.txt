@@ -1,0 +1,16 @@
+Recorda que tenes que descomprimir los archivos.
+
+Te recomiendo crear una carpeta para almacenar todos los archivos.
+
+Luego en sublime abrir la carpeta donde esta todo almecenado, asi podes ver los html con sus imagenes respectivas.
+
+Que falta:
+
+Una pagina de contacto donde nos pueden mandar un correo.
+
+Una pagina de FB/X.
+
+Pagina de compra de boletos, y agregar los trailer a la pagina de cada html. Recorda que no tiene que ser
+redirigido, se puede agregar a la par del poster seria mucho que mejor para ahorrar espacio xD
+
+Suerte Alcyr.
